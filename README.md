@@ -1,6 +1,6 @@
 # Medical Segmentation Decathlon Contribution 2018
 
-This repository contains the code for our submission to the MSD 2018.
+This repository contains the code for our [submission to the MSD 2018](https://www.lfb.rwth-aachen.de/institute/team/rippel/).
 For any questions concerning the code or submission, feel free to open an issue.
 
 The code utilizes the [batchgenerators framework](https://github.com/MIC-DKFZ/batchgenerators/) maintained by DKFZ, that was modified
