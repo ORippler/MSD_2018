@@ -10,7 +10,7 @@ It is further in part based on the [3D-Unet implementation from ellisdg](https:/
 
 ## Prerequisites
 
-Based on the dataset, up to 12 GB of GPU RAM may be required.
+Based on the dataset, up to 11 GB of GPU memory may be required.
 As the data is continuously loaded from Disk, no requirements exist for CPU RAM.
 
 To use the code, please setup a conda environment from the `environment.yaml`.
